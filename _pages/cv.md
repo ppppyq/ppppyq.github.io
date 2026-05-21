@@ -9,17 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Profile
 ======
 
-- **Degree**, Your University, YYYY - Present
-- **Degree**, Previous University, YYYY - YYYY
+Yuqi Ping is a researcher at Harbin Institute of Technology (Shenzhen). Research interests include UAV systems, multimodal large language models, vision-language navigation, communication and control co-design, and low-altitude airspace intelligence.
 
-Research Experience
+Research Interests
 ======
 
-- **Research Assistant**, Lab / Group, YYYY - Present
-  - Briefly describe your research direction, responsibilities, or main outcomes.
+- UAV systems and autonomous aerial networks
+- Multimodal large language models
+- Vision-language navigation
+- Communication and control co-design
+- UAV swarm localization, tracking, and trajectory planning
+- Low-altitude airspace security
 
 Publications
 ======
@@ -41,14 +44,3 @@ Teaching
 <ul>{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
-
-Awards and Honors
-======
-
-- Award name, YYYY
-
-Skills
-======
-
-- Programming: Python, C/C++, JavaScript
-- Tools: Git, Linux, LaTeX

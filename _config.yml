@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "ppppyq"
+title                    : "Yuqi Ping"
 title_separator          : "-"
-name                     : &name "ppppyq"
-description              : &description "Personal academic homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Yuqi Ping"
+description              : &description "Yuqi Ping's academic homepage: UAV, multimodal large language models, and vision-language navigation."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ppppyq.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,18 +24,18 @@ repository               : "ppppyq/ppppyq.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "ppppyq"
+  name             : "Yuqi Ping"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher / Student. Update this short bio in _config.yml."
-  location         : "China"
-  employer         : "Your University"
+  bio              : "Researcher at Harbin Institute of Technology (Shenzhen). Research interests: UAV, MLLM, VLN."
+  location         : "Shenzhen, China"
+  employer         : "Harbin Institute of Technology (Shenzhen)"
   uri              : # URL
   email            : "1085250849@qq.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=cao5qicAAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
