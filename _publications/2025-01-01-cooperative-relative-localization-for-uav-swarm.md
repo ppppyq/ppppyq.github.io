@@ -6,5 +6,7 @@ permalink: /publication/2025-01-01-cooperative-relative-localization-for-uav-swa
 excerpt: "A study on cooperative relative localization for UAV swarms in GNSS-denied environments."
 date: 2025-01-01
 venue: "GLOBECOM 2025 - 2025 IEEE Global Communications Conference"
+link: "https://ieeexplore.ieee.org/document/11432122/"
+paperurl: "https://ieeexplore.ieee.org/document/11432122/"
 citation: "G. Lei, Y. Ping, T. Liang, H. Ding, and T. Zhang. Cooperative Relative Localization for UAV Swarm in GNSS-Denied Environments. GLOBECOM 2025 - 2025 IEEE Global Communications Conference, pp. 2264-2269, 2025."
 ---
